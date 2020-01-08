@@ -6,8 +6,8 @@
 ! Expires: 7 days
 
 ! *.com
-youtube.com###comments
 boredpanda.com##div.open-list-comments
+youtube.com###comments
 
 ! *.pl
 bankier.pl###boxArticleComment
