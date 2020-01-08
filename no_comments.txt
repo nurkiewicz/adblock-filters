@@ -5,6 +5,10 @@
 ! Homepage: https://github.com/nurkiewicz/ublock-no-comments/issues
 ! Expires: 7 days
 
+! *.com
 youtube.com###comments
+boredpanda.com##div.open-list-comments
+
+! *.pl
 bankier.pl###boxArticleComment
 bankier.pl###articleComment
