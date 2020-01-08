@@ -5,3 +5,4 @@
 
 youtube.com###comments
 bankier.pl###boxArticleComment
+bankier.pl###articleComment
