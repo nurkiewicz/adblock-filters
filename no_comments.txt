@@ -5,6 +5,8 @@
 ! Homepage: https://github.com/nurkiewicz/ublock-no-comments/issues
 ! Expires: 7 days
 
+###disqus_thread
+
 ! *.com
 boredpanda.com##div.open-list-comments
 youtube.com###comments
