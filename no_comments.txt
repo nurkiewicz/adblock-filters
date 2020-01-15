@@ -14,3 +14,4 @@ youtube.com###comments
 ! *.pl
 bankier.pl###boxArticleComment
 bankier.pl###articleComment
+gazeta.pl##article.mod_comments
