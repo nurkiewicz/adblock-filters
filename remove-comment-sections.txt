@@ -1,4 +1,3 @@
-[Adblock Plus 3.5]
 ! Title: Remove comment sections from social media sites
 ! Remove comment sections from social media sites
 ! Description: Do not show comment sections to avoid social media distraction
