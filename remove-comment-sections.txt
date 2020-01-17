@@ -1,7 +1,7 @@
 ! Title: Remove comment sections from social media sites
 ! Remove comment sections from social media sites
 ! Description: Do not show comment sections to avoid social media distraction
-! Homepage: https://github.com/nurkiewicz/adblock-remove-comments/issues
+! Homepage: https://github.com/nurkiewicz/adblock-filters/issues
 ! Expires: 7 days
 
 ###disqus_thread
