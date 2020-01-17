@@ -1,0 +1,30 @@
+! Title: Less distractions on booking.com
+! Description: Do not show all urgent popups and messages
+! Homepage: https://github.com/nurkiewicz/adblock-filters/issues
+! Expires: 7 days
+
+booking.com##div.ribbon
+booking.com##div.sr-badges__row
+booking.com##div.sr-booked-x-times
+booking.com##div.js_sr_persuation_msg
+booking.com##div.soldout_property
+booking.com##div.search-secondary-review-score
+booking.com##div.genius_badge--by-stars
+booking.com##div.all-inclusive-ribbon
+booking.com##div.d-deal
+booking.com##svg.-iconset-thumbs_up_square
+booking.com##span.bh-quality-bars
+booking.com##div.bui-review-score__title
+booking.com##div.ge-free-room-upgrade-sr-text
+
+booking.com##div.only_x_left_redesign
+booking.com##span.hp-rt-just-booked
+booking.com##span.hp-rt-recently-booked
+booking.com##span.hp-description--property-name-top-ranked
+booking.com##span.top_scarcity
+booking.com###rate_guarantee
+booking.com##svg.genius-badge
+booking.com##div.share_center_square_cta
+booking.com##p.urgency_message_x_people
+booking.com##div.bui-price-display__original
+
