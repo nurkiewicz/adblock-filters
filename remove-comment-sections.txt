@@ -13,5 +13,6 @@ youtube.com###comments
 ! *.pl
 bankier.pl###boxArticleComment
 bankier.pl###articleComment
+dobreprogramy.pl##section#komentarze
 gazeta.pl##article.mod_comments
 wyborcza.biz##section.comments
