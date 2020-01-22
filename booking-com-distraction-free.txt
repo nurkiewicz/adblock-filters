@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/nurkiewicz/adblock-filters/issues
 ! Expires: 7 days
 
+# Listing/search page
 booking.com##div.ribbon
 booking.com##div.sr-badges__row
 booking.com##div.sr-booked-x-times
@@ -16,7 +17,9 @@ booking.com##svg.-iconset-thumbs_up_square
 booking.com##span.bh-quality-bars
 booking.com##div.bui-review-score__title
 booking.com##div.ge-free-room-upgrade-sr-text
+booking.com##div.revc-sample-reviews
 
+# Hotel details page
 booking.com##div.only_x_left_redesign
 booking.com##span.hp-rt-just-booked
 booking.com##span.hp-rt-recently-booked
