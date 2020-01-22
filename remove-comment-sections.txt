@@ -16,3 +16,4 @@ bankier.pl###articleComment
 dobreprogramy.pl##section#komentarze
 gazeta.pl##article.mod_comments
 wyborcza.biz##section.comments
+wyborcza.pl##section.comments
