@@ -1,5 +1,4 @@
-! Title: Remove comment sections from websites media sites
-! Description: Do not show comment sections to avoid social media distraction and hate speech
+! Title: Remove user comments to hide social media distraction and hate speech
 ! Homepage: https://github.com/nurkiewicz/adblock-filters/issues
 ! Expires: 7 days
 
