@@ -3,6 +3,8 @@
 ! Expires: 7 days
 
 ###disqus_thread
+##iframe[src^="https://www.facebook.com/v3.1/plugins/comments.php"]
+
 
 ! *.com
 boredpanda.com##div.open-list-comments
