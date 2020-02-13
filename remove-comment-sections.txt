@@ -5,10 +5,12 @@
 ###disqus_thread
 ##iframe[src^="https://www.facebook.com/v3.1/plugins/comments.php"]
 
-
 ! *.com
 boredpanda.com##div.open-list-comments
 youtube.com###comments
+
+! *.co.uk
+www.theregister.co.uk##div.comments
 
 ! *.pl
 bankier.pl###boxArticleComment
