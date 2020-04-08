@@ -18,6 +18,8 @@ bankier.pl###articleComment
 dobreprogramy.pl##section#komentarze
 filmweb.pl##section.forumSection
 gazeta.pl##article.mod_comments
+money.pl##div.sc-11b5sl5-1.hWUUqD
+money.pl##div.srjuk1-0.kVHZSe
 niebezpiecznik.pl##div#comments
 niebezpiecznik.pl##ol.commentlist
 wyborcza.biz##section.comments
