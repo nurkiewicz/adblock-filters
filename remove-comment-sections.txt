@@ -18,6 +18,7 @@ bankier.pl###boxArticleComment
 bankier.pl###articleComment
 dobreprogramy.pl##section#komentarze
 filmweb.pl##section.forumSection
+forsal.pl##div.commentsBox
 gazeta.pl##article.mod_comments
 money.pl##div.sc-11b5sl5-1.hWUUqD
 money.pl##div.srjuk1-0.kVHZSe
