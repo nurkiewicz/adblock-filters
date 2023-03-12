@@ -32,3 +32,6 @@ booking.com##p.urgency_message_x_people
 booking.com##div.bui-price-display__original
 booking.com##div.ge-wombat-benefits-block.genius_identity_refresh
 booking.com##div.fe_banner.fe_banner__accessible.fe_banner__red
+
+# Bookings & Trips page
+booking.com##.mltt__leg--suggestion
